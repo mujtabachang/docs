@@ -118,5 +118,11 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "errors": {
+    "404": {
+      "title": "URI BABA! ",
+      "description": "Uri baba page natho miley"
+    }
   }
 }
